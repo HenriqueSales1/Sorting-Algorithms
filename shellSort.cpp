@@ -1,4 +1,4 @@
-// O código abaixo utiliza "Shell Sorting" para organizar um vetor
+// O código abaixo utiliza "Shell Sort" para organizar um vetor
 
 #include <iostream>
 using namespace std;
